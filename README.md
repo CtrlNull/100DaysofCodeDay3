@@ -1,0 +1,2 @@
+# 100DaysofCodeDay3
+readingFilesIntoanArray
